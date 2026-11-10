@@ -1,0 +1,6 @@
+{
+  "name": "Forma Atelier",
+  "description": "A refined creative studio and campaign workspace that transforms product photography into multilingual advertising campaigns powered by Gemini 4 Argon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
